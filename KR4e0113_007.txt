@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清風亭稿
-#+DATE: 2020-03-31 11:37:09.973770
+#+DATE: 2020-03-31 11:37:10.112264
 #+PROPERTY: ID KR4e0113
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 7
 <pb:KR4e0113_WYG_007-1a>¶
 　　欽定四庫全書¶
@@ -167,7 +167,7 @@
 ¶
 　　南安分司¶
 ¶
-　　隂風射紙窓燭影半明滅四野無人聲寒𤠔嘯霜月¶
+　　隂風射紙窓燭影半明滅四野無人聲寒猿嘯霜月¶
 ¶
 　　姚安分司¶
 ¶

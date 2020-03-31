@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清風亭稿
-#+DATE: 2020-03-31 11:37:09.893503
+#+DATE: 2020-03-31 11:37:10.033313
 #+PROPERTY: ID KR4e0113
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4e0113_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部六¶
